@@ -1,0 +1,28 @@
+_repo: Indian-Summer_62194
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hutchings, Emily Grant
+    alias: Hutchings, Mrs. Emily Grant
+    gutenberg_agent_id: '36986'
+    url: http://www.gutenberg.org/2009/agents/36986
+description: ''
+gutenberg_issued: '2020-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62194'
+  lccn: '22015474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle-aged women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Interpersonal relations -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- GITenberg
+title: Indian Summer
+url: http://www.gutenberg.org/ebooks/62194
